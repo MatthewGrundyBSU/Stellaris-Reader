@@ -1,0 +1,15 @@
+577=
+		{
+			name=
+			{
+				key="NAME_Cradle"
+			}
+			planet_class="pc_gaia"
+			coordinate=
+			{
+				x=-19.89305
+				y=105.1089
+				origin=374
+				randomized=no
+				visual_height=0.000000
+			}
