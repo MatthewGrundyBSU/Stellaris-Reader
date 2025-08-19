@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Ignores Saves to test to cut down on File Space ###
+Saves/*
+Saves/TestFile.txt
